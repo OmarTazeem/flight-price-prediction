@@ -36,6 +36,6 @@ Data Collection → Data Cleaning → Feature Engineering → Model Training →
 * Data Preprocessing
 * Model Evaluation Techniques
 
-## Screenshot
+## Feature Importance
 
-![Project Demo](demo.png)
+![Feature Importance](flight_feature_importance.png)
